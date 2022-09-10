@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637984358115972498
-    m_Hash: 663939576
+      ticks: 637984379598980795
+    m_Hash: 1472552103
   m_LockFileStatus:
     m_FilePath: C:/Users/Arthu/Documents/GitHub/Monto-2D/Monto 2D/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637984358696087313
-    m_Hash: 3656573077
+      ticks: 637984379598990775
+    m_Hash: 1545373280
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
