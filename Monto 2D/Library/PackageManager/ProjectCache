@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Arthu/Documents/GitHub/Monto-2D/Monto 2D/Packages/manifest.json
+    m_FilePath: C:/Users/Arthu/Desktop/Monto 2D/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637984379598980795
-    m_Hash: 1472552103
+      ticks: 637984434160000000
+    m_Hash: 663939576
   m_LockFileStatus:
-    m_FilePath: C:/Users/Arthu/Documents/GitHub/Monto-2D/Monto 2D/Packages/packages-lock.json
+    m_FilePath: C:/Users/Arthu/Desktop/Monto 2D/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637984379598990775
-    m_Hash: 1545373280
+      ticks: 637989448319665791
+    m_Hash: 3757951223
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Arthu/Documents/GitHub/Monto-2D/Monto 2D/Packages
-m_EditorVersion: 2021.3.9f1 (ad3870b89536)
+m_ProjectPath: C:/Users/Arthu/Desktop/Monto 2D/Packages
+m_EditorVersion: 2021.2.7f1 (6bd9e232123f)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.17.2
   testable: 0
   isDirectDependency: 1
   version: 1.17.2
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.collab-proxy@1.17.2
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.collab-proxy@1.17.2
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -106,6 +106,17 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
+    - 1.15.4
+    - 1.15.7
+    - 1.15.9
+    - 1.15.12
+    - 1.15.13
+    - 1.15.15
+    - 1.15.16
+    - 1.15.17
+    - 1.15.18
+    - 1.17.0
+    - 1.17.1
     - 1.17.2
     - 2.0.0-preview.6
     - 2.0.0-preview.8
@@ -117,18 +128,14 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 1.17.2
+    verified: 1.15.18
   dependencies:
   - name: com.unity.services.core
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.4.2
+    version: 1.0.1
   - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords:
   - backup
@@ -162,14 +169,14 @@ m_ResolvedPackages:
     revision: 14d129dcc778f8ea2fdf9d0240b47924e4f0dbb1
     path: 
   unityLifecycle:
-    version: 1.17.2
+    version: 1.15.4
     nextVersion: 
 - packageId: com.unity.feature.2d@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.feature.2d@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.feature.2d@1.0.0
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -209,13 +216,13 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 7.0.6
+    version: 7.0.2
   - name: com.unity.2d.common
-    version: 6.0.3
+    version: 6.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.2.5
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -227,23 +234,23 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.6.6
+    version: 1.6.0
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.2d.pixel-perfect
     version: 5.0.1
   - name: com.unity.2d.psdimporter
-    version: 6.0.4
+    version: 6.0.1
   - name: com.unity.2d.spriteshape
-    version: 7.0.5
+    version: 7.0.3
   - name: com.unity.2d.path
-    version: 5.0.2
+    version: 5.0.1
   - name: com.unity.modules.physics2d
     version: 1.0.0
   - name: com.unity.2d.tilemap
     version: 1.0.0
   - name: com.unity.2d.tilemap.extras
-    version: 2.2.3
+    version: 2.2.1
   - name: com.unity.modules.tilemap
     version: 1.0.0
   - name: com.unity.ugui
@@ -274,7 +281,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.15
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.ide.rider@3.0.15
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.ide.rider@3.0.15
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -323,6 +330,12 @@ m_ResolvedPackages:
     - 3.0.14
     - 3.0.15
     compatible:
+    - 3.0.7
+    - 3.0.9
+    - 3.0.10
+    - 3.0.12
+    - 3.0.13
+    - 3.0.14
     - 3.0.15
     verified: 3.0.15
   dependencies:
@@ -350,14 +363,14 @@ m_ResolvedPackages:
     revision: b61ff0378932fdf03b5891e09c91728337de674c
     path: 
   unityLifecycle:
-    version: 3.0.15
+    version: 3.0.7
     nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.16
   testable: 0
   isDirectDependency: 1
   version: 2.0.16
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -394,6 +407,9 @@ m_ResolvedPackages:
     - 2.0.15
     - 2.0.16
     compatible:
+    - 2.0.12
+    - 2.0.14
+    - 2.0.15
     - 2.0.16
     verified: 2.0.16
   dependencies:
@@ -427,14 +443,14 @@ m_ResolvedPackages:
     revision: c01855ef6461b821ab0226135e96a4ee86de96be
     path: 
   unityLifecycle:
-    version: 2.0.16
+    version: 2.0.12
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -465,6 +481,7 @@ m_ResolvedPackages:
     - 1.2.4
     - 1.2.5
     compatible:
+    - 1.2.4
     - 1.2.5
     verified: 1.2.5
   dependencies: []
@@ -488,14 +505,14 @@ m_ResolvedPackages:
     revision: b0740c80bfc2440527c317109f7c3d9100132722
     path: 
   unityLifecycle:
-    version: 1.2.5
+    version: 1.2.4
     nextVersion: 
 - packageId: com.unity.test-framework@1.1.31
   testable: 0
   isDirectDependency: 1
   version: 1.1.31
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.test-framework@1.1.31
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.test-framework@1.1.31
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -548,6 +565,8 @@ m_ResolvedPackages:
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
+    - 1.1.29
+    - 1.1.30
     - 1.1.31
     - 1.1.33
     - 2.0.1-exp.1
@@ -589,14 +608,14 @@ m_ResolvedPackages:
     revision: 438b0defc147c9be5c969ca79ff03a722b4590ed
     path: 
   unityLifecycle:
-    version: 1.1.31
+    version: 1.1.29
     nextVersion: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -761,7 +780,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.4
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.timeline@1.6.4
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -850,6 +869,7 @@ m_ResolvedPackages:
     - 1.7.0
     - 1.7.1
     compatible:
+    - 1.6.3
     - 1.6.4
     - 1.7.0-pre.1
     - 1.7.0-pre.2
@@ -898,14 +918,14 @@ m_ResolvedPackages:
     revision: d7e1eb6805737974459309b7d6e7db58635dd167
     path: 
   unityLifecycle:
-    version: 1.6.4
+    version: 1.6.3
     nextVersion: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -967,7 +987,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.8
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.visualscripting@1.7.8
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.visualscripting@1.7.8
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -976,7 +996,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: tool
+  type: 
   description: 'Visual scripting is a workflow that uses visual, node-based graphs
     to design behaviors rather than write lines of C# script.
 
@@ -1010,6 +1030,8 @@ m_ResolvedPackages:
     - 1.7.8
     - 1.8.0-pre.1
     compatible:
+    - 1.7.6
+    - 1.7.7
     - 1.7.8
     verified: 1.7.8
   dependencies:
@@ -1045,14 +1067,14 @@ m_ResolvedPackages:
     revision: 775a560e6602f51ff05aca02264f8bed4d415fd3
     path: 
   unityLifecycle:
-    version: 1.7.8
+    version: 1.7.6
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1100,7 +1122,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1147,7 +1169,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1195,7 +1217,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1243,7 +1265,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1291,7 +1313,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1343,7 +1365,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1399,7 +1421,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1448,7 +1470,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1496,7 +1518,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1544,7 +1566,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1592,7 +1614,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1640,7 +1662,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1688,7 +1710,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -1740,7 +1762,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -1788,7 +1810,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -1844,7 +1866,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -1895,7 +1917,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -1943,7 +1965,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2007,7 +2029,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2055,7 +2077,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2111,7 +2133,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2159,7 +2181,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2215,7 +2237,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2271,7 +2293,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2327,7 +2349,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2399,7 +2421,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2451,7 +2473,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2511,7 +2533,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2573,7 +2595,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2621,7 +2643,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -2681,7 +2703,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -2733,7 +2755,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -2792,7 +2814,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -2847,12 +2869,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.2d.animation@7.0.6
+- packageId: com.unity.2d.animation@7.0.2
   testable: 0
   isDirectDependency: 0
-  version: 7.0.6
+  version: 7.0.2
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.animation@7.0.6
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.animation@7.0.2
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -2966,12 +2988,16 @@ m_ResolvedPackages:
     - 9.0.0-pre.3
     - 9.0.0
     compatible:
+    - 7.0.2
+    - 7.0.3
+    - 7.0.4
+    - 7.0.5
     - 7.0.6
     - 7.0.7
     verified: 7.0.7
   dependencies:
   - name: com.unity.2d.common
-    version: 6.0.3
+    version: 6.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.modules.animation
@@ -2980,11 +3006,11 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.common
-    version: 6.0.3
+    version: 6.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.2.5
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -2996,7 +3022,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.6.6
+    version: 1.6.0
   - name: com.unity.modules.animation
     version: 1.0.0
   keywords:
@@ -3011,23 +3037,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637892785830000000
+  datePublishedTicks: 637722454220000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 1c0695a81f795ed6aaafcb9d6a9c41b20e6d22bf
+    revision: a502f68fa28fa71b436e2ef510df482f10ab5bb6
     path: 
   unityLifecycle:
-    version: 7.0.6
+    version: 7.0.2
     nextVersion: 
 - packageId: com.unity.2d.pixel-perfect@5.0.1
   testable: 0
   isDirectDependency: 0
   version: 5.0.1
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.1
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.1
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -3036,7 +3062,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: tool
+  type: 
   description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
     which ensures your pixel art remains crisp and clear at different resolutions,
     and stable in motion.
@@ -3098,12 +3124,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 5.0.1
     nextVersion: 
-- packageId: com.unity.2d.psdimporter@6.0.4
+- packageId: com.unity.2d.psdimporter@6.0.1
   testable: 0
   isDirectDependency: 0
-  version: 6.0.4
+  version: 6.0.1
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.psdimporter@6.0.4
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.psdimporter@6.0.1
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -3113,9 +3139,13 @@ m_ResolvedPackages:
     url: 
   category: 2D
   type: 
-  description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
+  description: 'A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
     file format. The ScriptedImporter is currently targeted for users who wants to
     create multi Sprite character animation using Unity 2D Animation Package.
+
+
+    Documentation
+    for v5.0 is currently being updated.'
   status: 4
   errors: []
   versions:
@@ -3183,25 +3213,28 @@ m_ResolvedPackages:
     - 8.0.0-pre.3
     - 8.0.0
     compatible:
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
     - 6.0.4
     - 6.0.5
     verified: 6.0.5
   dependencies:
   - name: com.unity.2d.animation
-    version: 7.0.6
+    version: 7.0.1
   - name: com.unity.2d.common
-    version: 6.0.3
+    version: 6.0.0
   - name: com.unity.2d.sprite
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 7.0.6
+    version: 7.0.2
   - name: com.unity.2d.common
-    version: 6.0.3
+    version: 6.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.2.5
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -3213,7 +3246,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.6.6
+    version: 1.6.0
   - name: com.unity.modules.animation
     version: 1.0.0
   keywords:
@@ -3229,23 +3262,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637901498510000000
+  datePublishedTicks: 637690414990000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 787eee07cde83ceec97b5cee792e9e0a1566b141
+    revision: b015022decd440f484d85cf6ee096c0ecaa60e30
     path: 
   unityLifecycle:
-    version: 6.0.4
+    version: 6.0.1
     nextVersion: 
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -3291,12 +3324,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.2d.spriteshape@7.0.5
+- packageId: com.unity.2d.spriteshape@7.0.3
   testable: 0
   isDirectDependency: 0
-  version: 7.0.5
+  version: 7.0.3
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.spriteshape@7.0.5
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.spriteshape@7.0.3
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -3388,6 +3421,8 @@ m_ResolvedPackages:
     - 9.0.0-pre.1
     - 9.0.0
     compatible:
+    - 7.0.3
+    - 7.0.4
     - 7.0.5
     - 7.0.6
     verified: 7.0.6
@@ -3395,16 +3430,16 @@ m_ResolvedPackages:
   - name: com.unity.mathematics
     version: 1.1.0
   - name: com.unity.2d.common
-    version: 6.0.3
+    version: 6.0.1
   - name: com.unity.2d.path
-    version: 5.0.2
+    version: 5.0.1
   - name: com.unity.modules.physics2d
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.2.5
   - name: com.unity.2d.common
-    version: 6.0.3
+    version: 6.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.modules.uielements
@@ -3418,9 +3453,9 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.6.6
+    version: 1.6.0
   - name: com.unity.2d.path
-    version: 5.0.2
+    version: 5.0.1
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -3439,23 +3474,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637915828240000000
+  datePublishedTicks: 637722454300000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: b8ef9a9fa25d116a9e65e40bc9a7f86135688ed8
+    revision: a502f68fa28fa71b436e2ef510df482f10ab5bb6
     path: 
   unityLifecycle:
-    version: 7.0.5
+    version: 7.0.3
     nextVersion: 
 - packageId: com.unity.2d.tilemap@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -3500,12 +3535,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.2d.tilemap.extras@2.2.3
+- packageId: com.unity.2d.tilemap.extras@2.2.1
   testable: 0
   isDirectDependency: 0
-  version: 2.2.3
+  version: 2.2.1
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.tilemap.extras@2.2.3
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.tilemap.extras@2.2.1
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -3556,6 +3591,8 @@ m_ResolvedPackages:
     - 3.0.1
     - 3.0.2
     compatible:
+    - 2.2.1
+    - 2.2.2
     - 2.2.3
     verified: 2.2.3
   dependencies:
@@ -3593,23 +3630,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637892785880000000
+  datePublishedTicks: 637690415140000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/2d-extras.git
-    revision: 23a879f6458e28d4082f486e6c2375ef4c281145
+    revision: ab6199c75d7737ad61837747f178a999273bcf88
     path: 
   unityLifecycle:
-    version: 2.2.3
+    version: 2.2.1
     nextVersion: 
-- packageId: com.unity.services.core@1.4.2
+- packageId: com.unity.services.core@1.0.1
   testable: 0
   isDirectDependency: 0
-  version: 1.4.2
+  version: 1.0.1
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.services.core@1.4.2
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.services.core@1.0.1
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -3623,7 +3660,7 @@ m_ResolvedPackages:
     packages.
 
     These are standardized and aim to unify the overall experience
-    of working with Game Services SDK.'
+    of working with Game Services packages.'
   status: 4
   errors: []
   versions:
@@ -3644,22 +3681,27 @@ m_ResolvedPackages:
     - 1.4.2
     - 1.4.3
     compatible:
+    - 1.0.1
+    - 1.1.0-pre.7
+    - 1.1.0-pre.8
+    - 1.1.0-pre.9
+    - 1.1.0-pre.10
+    - 1.1.0-pre.11
+    - 1.1.0-pre.41
+    - 1.1.0-pre.69
+    - 1.2.0
+    - 1.3.1
+    - 1.3.2
+    - 1.4.0
+    - 1.4.1
     - 1.4.2
     - 1.4.3
-    verified: 1.4.3
+    verified: 1.0.1
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
   resolvedDependencies:
   - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords: []
   registry:
@@ -3671,23 +3713,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637919618520000000
+  datePublishedTicks: 637604883250000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 3964d1641ebec474aa425853985bccbdb89c2a49
+    revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
     path: 
   unityLifecycle:
-    version: 1.4.2
-    nextVersion: 
-- packageId: com.unity.mathematics@1.2.6
+    version: 1.0.1
+    nextVersion: 1.1.0-pre.8
+- packageId: com.unity.mathematics@1.2.5
   testable: 0
   isDirectDependency: 0
-  version: 1.2.6
+  version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.mathematics@1.2.6
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.mathematics@1.2.5
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -3721,6 +3763,7 @@ m_ResolvedPackages:
     - 1.2.5
     - 1.2.6
     compatible:
+    - 1.2.5
     - 1.2.6
     verified: 1.2.6
   dependencies: []
@@ -3736,23 +3779,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637841876140000000
+  datePublishedTicks: 637719892670000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/Unity.Mathematics.git
-    revision: f110c8c230d253654afed153569030a587cc7557
+    revision: 53b0c4756c3c0dff3746285a8b83e858c26cdb06
     path: 
   unityLifecycle:
-    version: 1.2.6
+    version: 1.2.5
     nextVersion: 
-- packageId: com.unity.2d.common@6.0.3
+- packageId: com.unity.2d.common@6.0.1
   testable: 0
   isDirectDependency: 0
-  version: 6.0.3
+  version: 6.0.1
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.common@6.0.3
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.common@6.0.1
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -3808,6 +3851,8 @@ m_ResolvedPackages:
     - 8.0.0-pre.2
     - 8.0.0
     compatible:
+    - 6.0.1
+    - 6.0.2
     - 6.0.3
     - 6.0.4
     verified: 6.0.4
@@ -3824,7 +3869,7 @@ m_ResolvedPackages:
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.2.5
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -3836,7 +3881,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.6.6
+    version: 1.6.0
   keywords:
   - 2d
   registry:
@@ -3848,23 +3893,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637817447740000000
+  datePublishedTicks: 637722454040000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 41fd674f8e4b2265bdbc50291dced1bd86c590ee
+    revision: a502f68fa28fa71b436e2ef510df482f10ab5bb6
     path: 
   unityLifecycle:
-    version: 6.0.3
+    version: 6.0.1
     nextVersion: 
-- packageId: com.unity.2d.path@5.0.2
+- packageId: com.unity.2d.path@5.0.1
   testable: 0
   isDirectDependency: 0
-  version: 5.0.2
+  version: 5.0.1
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.2d.path@5.0.2
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.2d.path@5.0.1
   assetPath: Packages/com.unity.2d.path
   name: com.unity.2d.path
   displayName: 2D Path
@@ -3902,6 +3947,7 @@ m_ResolvedPackages:
     - 5.0.1
     - 5.0.2
     compatible:
+    - 5.0.1
     - 5.0.2
     verified: 5.0.2
   dependencies: []
@@ -3918,91 +3964,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637817447940000000
+  datePublishedTicks: 637661771910000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 41fd674f8e4b2265bdbc50291dced1bd86c590ee
+    revision: bcbc5fb1cb18a1a4cf6e15325550ed4b8fbb21bc
     path: 
   unityLifecycle:
-    version: 5.0.2
+    version: 5.0.1
     nextVersion: 
-- packageId: com.unity.nuget.newtonsoft-json@3.0.2
+- packageId: com.unity.burst@1.6.0
   testable: 0
   isDirectDependency: 0
-  version: 3.0.2
+  version: 1.6.0
   source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
-  assetPath: Packages/com.unity.nuget.newtonsoft-json
-  name: com.unity.nuget.newtonsoft-json
-  displayName: Newtonsoft Json
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: library
-  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 13.0.1.
-
-
-    This package is used for advanced json serialization
-    and deserialization. Most Unity users will be better suited using the existing
-    json tools built into Unity.
-
-    To avoid assembly clashes, please use this
-    package if you intend to use Newtonsoft Json.'
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.1-preview.1
-    - 1.1.2
-    - 2.0.0-preview
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0
-    - 2.0.1-preview.1
-    - 2.0.2
-    - 3.0.1
-    - 3.0.2
-    compatible:
-    - 3.0.2
-    verified: 3.0.2
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637846828220000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
-    path: 
-  unityLifecycle:
-    version: 3.0.2
-    nextVersion: 
-- packageId: com.unity.burst@1.6.6
-  testable: 0
-  isDirectDependency: 0
-  version: 1.6.6
-  source: 1
-  resolvedPath: C:\Users\Arthu\Documents\GitHub\Monto-2D\Monto 2D\Library\PackageCache\com.unity.burst@1.6.6
+  resolvedPath: C:\Users\Arthu\Desktop\Monto 2D\Library\PackageCache\com.unity.burst@1.6.0
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4135,6 +4113,12 @@ m_ResolvedPackages:
     - 1.8.0-pre.1
     - 1.8.0-pre.2
     compatible:
+    - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
     - 1.6.6
     - 1.7.0-pre.1
     - 1.7.0
@@ -4150,7 +4134,7 @@ m_ResolvedPackages:
     version: 1.2.1
   resolvedDependencies:
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.2.5
   keywords: []
   registry:
     id: main
@@ -4161,14 +4145,14 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637902875830000000
+  datePublishedTicks: 637661043940000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/burst.git
-    revision: 21ee3d01c6a374f6b01106f9eb6f1b43e113b1a3
+    revision: 405e9582b7e75a1a9e6f8dcaf4c2dc97d441ae68
     path: 
   unityLifecycle:
-    version: 1.6.6
+    version: 1.6.0
     nextVersion: 
