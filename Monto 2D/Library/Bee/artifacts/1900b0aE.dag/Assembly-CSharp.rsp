@@ -365,6 +365,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Exemplos/Atividade_Sala/Scripts/Movimento.cs"
+"Assets/Exemplos/Atividade_Sala/Scripts/Pulo.cs"
+"Assets/Exemplos/Prova/Scripts-NaoAlterar/Animacoes.cs"
+"Assets/Exemplos/Prova/Scripts-NaoAlterar/Diamante.cs"
+"Assets/Exemplos/Prova/Scripts-NaoAlterar/Pontuacao.cs"
 "Assets/Scripts/Andar.cs"
 -langversion:9.0
 

@@ -57,6 +57,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Andar.cs" />
+    <Compile Include="Assets\Exemplos\Atividade_Sala\Scripts\Movimento.cs" />
+    <Compile Include="Assets\Exemplos\Prova\Scripts-NaoAlterar\Animacoes.cs" />
+    <Compile Include="Assets\Exemplos\Atividade_Sala\Scripts\Pulo.cs" />
+    <Compile Include="Assets\Exemplos\Prova\Scripts-NaoAlterar\Diamante.cs" />
+    <Compile Include="Assets\Exemplos\Prova\Scripts-NaoAlterar\Pontuacao.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Ground\License.txt" />
