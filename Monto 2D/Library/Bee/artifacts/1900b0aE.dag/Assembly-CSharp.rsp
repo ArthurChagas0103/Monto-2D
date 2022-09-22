@@ -371,6 +371,7 @@
 "Assets/Exemplos/Prova/Scripts-NaoAlterar/Diamante.cs"
 "Assets/Exemplos/Prova/Scripts-NaoAlterar/Pontuacao.cs"
 "Assets/Scripts/Andar.cs"
+"Assets/Scripts/Menu.cs"
 -langversion:9.0
 
 /deterministic
