@@ -53,9 +53,6 @@
     <UnityVersion>2021.2.7f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\Andar.cs" />
     <Compile Include="Assets\Exemplos\Atividade_Sala\Scripts\Pulo.cs" />
@@ -839,9 +836,17 @@
       <Project>{850A8FD1-E8A7-57F2-8BC9-784FF4FBE1C4}</Project>
       <Name>Unity.2D.IK.Runtime</Name>
     </ProjectReference>
+    <ProjectReference Include="Cinemachine.csproj">
+      <Project>{6D977052-C713-82BC-D96C-E59825A45CD7}</Project>
+      <Name>Cinemachine</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
       <Project>{7EDBF86A-A356-3662-1314-9E9EDCE8EC82}</Project>
       <Name>Unity.Burst</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
+      <Project>{D652DF23-4B63-302B-AED5-BE78FA0DA187}</Project>
+      <Name>com.unity.cinemachine.editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
       <Project>{09D01725-47BC-B8F3-4654-7736B3F917EC}</Project>

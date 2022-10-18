@@ -53,9 +53,6 @@
     <UnityVersion>2021.2.7f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap.extras@2.2.1\Editor\Brushes\RandomBrush\RandomBrush.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap.extras@2.2.1\Editor\Tiles\RuleOverrideTile\RuleOverrideTileEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap.extras@2.2.1\Editor\Menu\MenuItemOrder.cs" />
